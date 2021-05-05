@@ -1,0 +1,94 @@
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather' serif;
+}
+#title {
+  background-color: #ff4c68;
+  color: #fff;
+}
+
+.container-fluid {
+  padding: 3% 15%;
+}
+
+h1 {
+  font-family: "Montserrat"Sans-serif;
+  font-size: 3.5rem;
+  font-weight: 900;
+  line-height: 1.5;
+}
+h2 {
+  font-family: 'Monsterrat', sans-serif;
+  font-size: 3rem ;
+  color: #66BFBF;
+  font-weight: 900;
+  line-height: 2;
+
+}
+h3 {
+  font-family: 'Montserrat' sans-serif;
+  color: #11999E;
+}
+a{
+  font-family: 'Montserrat' sans-serif;
+  color: #11999E;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+/*navigation bar*/
+
+.navbar {
+  padding-bottom: 4.5rem;
+}
+.navbar-brand {
+  font-family: "Ubuntu";
+  font-size: 2.5rem;
+  font-weight: bold;
+  color: white;
+}
+.nav-item {
+padding: 0 18px
+}
+.nav-link {
+  font-size: 1.2rem;
+  font-family: "Monsterrat-light";
+}
+.dancing-couple {
+  width: 60%;
+  transform: rotate(20deg);
+}
+/*Features*/
+#features{
+  padding: 7% 15%;
+}
+.row{
+  padding:4.5%;
+}
+.tanar-kep{
+  margin-bottom: 1rem;
+}
+.text{
+  font-size: 1.5rem;
+  font-family: "Monsterrat-bold";
+  font-weight: 900;
+}
+#motto{
+  text-align: center;
+  background-color: #ef8172;
+  color: #fff;
+}
+.pro {
+  text-decoration: underline;
+}
+
+.p {
+  font-size: 2.5rem;
+}
+.footer-link {
+  color: #11999E;
+}
+.footer-link:hover{
+  color:#FFB6C1
+}
